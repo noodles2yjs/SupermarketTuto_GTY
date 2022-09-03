@@ -19,10 +19,9 @@ namespace SupermarketTuto
           
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-           // Application.Run(new Splash());
-           // 提交到GitHUb的测试
-           // 提交到GitHUb的测试2
-            Application.Run(new Splash()); 
+            // Application.Run(new Splash());
+            // new Form1
+            Application.Run(new Form1()); 
         }
     }
 }
