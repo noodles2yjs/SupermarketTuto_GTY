@@ -70,6 +70,14 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helper\ShowPageNavigate.cs" />
+    <Compile Include="HZHDGVTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HZHDGVTest.Designer.cs">
+      <DependentUpon>HZHDGVTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Student.cs" />
     <Compile Include="ProductForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +114,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HZHDGVTest.resx">
+      <DependentUpon>HZHDGVTest.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProductForm.resx">
       <DependentUpon>ProductForm.cs</DependentUpon>

@@ -22,7 +22,7 @@ namespace SupermarketTuto
             // Application.Run(new Splash());
             // new Form1
             // 引用HZH控件,准备使用HZH控件更改程序的UI
-            Application.Run(new Form1()); 
+            Application.Run(new HZHDGVTest()); 
         }
     }
 }
