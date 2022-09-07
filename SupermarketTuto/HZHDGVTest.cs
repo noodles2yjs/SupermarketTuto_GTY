@@ -108,6 +108,8 @@ namespace SupermarketTuto
             // ucPagerControl21.DataSource = lstPage2;
             // ucPagerControl21.PageCount = totalCont;
             // ucPagerControl21.PageCount = totalCont;
+            // ucPagerControl21.PageCount = totalCont;
+            // ucPagerControl21.PageCount = totalCont;
 
         }
 
